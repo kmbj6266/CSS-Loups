@@ -1,0 +1,87 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color:#E8E8E8;	
+}
+
+li {
+  color: black; /* bullet color */
+  margin-left: 30px;
+}
+
+li span {
+  color: blue; /* text color */
+}
+
+h1{
+	font-family: Times;
+	font-size: 40px;
+	line-height: 70px;
+}
+
+.special {
+	color:#A00000;
+}
+
+.special2{
+	color-blue;
+	text-decoration: underline;
+}
+#container{
+	width: 1000px;
+	margin: 0 auto;
+}
+#header {
+	background-color: #D0D0D0;
+	border-radius: 20px;
+	margin: 0, auto;
+	height:70px;
+	font-size: 2.5em;
+	padding-left:10px;
+}
+
+#homenav {
+	font-size: 14px;
+	width:230px;
+	color:blue;
+	background-color: #D0D0D0;
+	border-radius: 20px;
+	height:320px;
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-top: 20px;
+
+}
+
+#myessays{	
+	width:720px;
+	background-color: #A0A0A0;
+	border-radius: 20px;
+	height:400px;
+	margin-top: 20px;
+	margin-left: 15px;
+	display:inline-block;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+}
+
+#navlist{
+	margin-left: 20px;
+}
+
+#contact {
+	background-color: #D0D0D0;
+	border-radius: 20px;
+	margin: 0, auto;
+	height:60px;
+	font-size: .75em;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-top: 20px;
